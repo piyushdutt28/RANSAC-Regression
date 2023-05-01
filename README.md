@@ -1,2 +1,2 @@
 # RANSAC-Regression
-Find odd Pattern in Trajectories of Detected Objects
+Working on video object tracking using RANSAC
